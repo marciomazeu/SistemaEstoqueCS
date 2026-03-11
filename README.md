@@ -41,3 +41,4 @@ This project was developed for educational purposes as part of a Coursera specia
 
 ## Preview
 ![Inventory System Screenshot](screenshot.png)
+![Project Diagram](diagram.png)
