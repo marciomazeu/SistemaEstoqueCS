@@ -39,4 +39,5 @@ dotnet run
 📝 License
 This project was developed for educational purposes as part of a Coursera specialization.
 
-![alt text](<Screen Shot 2026-03-11 at 7.15.59 PM.png>)
+## Preview
+![Inventory System Screenshot](screenshot.png)
