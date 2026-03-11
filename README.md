@@ -31,11 +31,11 @@ This application allows users to manage a product inventory through a command-li
 2. **Navigate to the project folder:**
 ```bash
 cd InventoryManagementCS
-
+```
 3. **Execute the application:**
 ```bash
 dotnet run
-
+```
 📝 License
 This project was developed for educational purposes as part of a Coursera specialization.
 
